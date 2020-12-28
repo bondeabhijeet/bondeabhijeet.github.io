@@ -302,6 +302,8 @@
      top: -3px;
      padding: 0 15px;
      margin: 0 2px;
+	 
+
 }
  .button_user a {
      float: left;
@@ -313,13 +315,17 @@
      top: -7px;
      padding: 0 15px;
      margin: 0 2px;
+	 background-color: #1C2833;
+	 color: #ffffff;
      border: solid #eaeaea 1px;
+
 }
  .button_user a:hover, .button_user a:focus, .button_user a.active {
-     background: #e3d105;
+     background: #000000;
      color: #fff;
-     border-color: #e3d105;
-     color: #222;
+     border-color: #000000;
+     color: #FBFF00;
+	 background-color: #566573; 
 }
  #sidebarCollapse {
      background: transparent;
